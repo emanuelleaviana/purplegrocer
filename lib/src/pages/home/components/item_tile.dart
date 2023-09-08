@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:quitanda/src/models/item_modal.dart';
+import 'package:quitanda/src/models/item_model.dart';
 import 'package:quitanda/src/pages/products/product_screen.dart';
 import 'package:quitanda/src/services/utils_services.dart';
 
